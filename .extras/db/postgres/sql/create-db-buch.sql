@@ -13,7 +13,7 @@
 -- You should have received a copy of the GNU General Public License
 -- along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
--- (1) in extras\compose\compose.yml
+-- (1) in extras\compose\db\postgres\compose.yml
 --        auskommentieren:
 --           Zeile mit "command:" und nachfolgende Listenelemente mit führendem "-" auskommentieren
 --              damit der PostgreSQL-Server ohne TLS gestartet wird
