@@ -5,6 +5,7 @@
 
 # Abhaengige Dateien durch npm
 /node_modules
+package-lock.json
 
 # Generierte Dateien
 build
