@@ -49,6 +49,7 @@ snyk-*.log
 # IDEs and editors
 /.idea
 *.iml
+.env
 .project
 .classpath
 .c9/
